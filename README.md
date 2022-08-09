@@ -1,1 +1,1 @@
-# .github
+# IoTHINC VIT Chennai
